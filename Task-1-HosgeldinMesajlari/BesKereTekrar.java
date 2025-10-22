@@ -1,4 +1,4 @@
-public class UcMesaj {
+public class BesKereTekrar {
     public static void main(String[] args) {
 
         System.out.println("java'ya Hoş Geldiniz");
@@ -8,3 +8,4 @@ public class UcMesaj {
         System.out.println("java'ya Hoş Geldiniz");
     }
 }
+
